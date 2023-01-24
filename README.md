@@ -2,7 +2,7 @@
 
 I am a current graduate student at Drexel University. 
 - 🌱 I’m currently learning javascript and C. 
-- 
+
 <!--
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
