@@ -1,9 +1,8 @@
 👋 Hi, I’m Emmeline!
 
-I am a current graduate student at Drexel University. 
-- 🌱 I’m currently learning javascript and C. 
 
 <!--
+I am a current graduate student at Drexel University. 
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
