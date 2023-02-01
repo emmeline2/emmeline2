@@ -1,5 +1,7 @@
 👋 Hi, I’m Emmeline!
 
+- 🌱 Checkout my website: https://emmeline2.github.io/
+
 
 <!--
 I am a current graduate student at Drexel University. 
