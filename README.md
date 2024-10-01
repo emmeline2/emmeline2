@@ -1,6 +1,6 @@
 👋 Hi, I’m Emmeline!
 
-- 🌱 Checkout my website: https://emmeline2.github.io/
+- 🌱 My website (currently under construction): https://emmeline2.github.io/
 
 
 <!--
